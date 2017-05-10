@@ -38,9 +38,9 @@ To become a contributor you __don't have to be__ a rock start or genius. You jus
 
 ### We need repo maintainers:
 
-To become a repo maintainer, you have to be mature and ideally driving your own tutorials. 
+To become a repo maintainer, you have to be mature and ideally driving your own shows/courses/tuts. 
 
-A good example:
+Good examples:
  - Addy Osmani @addyosmani and his [YouTube Show's](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
  - Mattias P Johansson @mpj and his monday morning show [FunFunFunction] (https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
