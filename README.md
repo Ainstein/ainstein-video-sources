@@ -17,7 +17,7 @@ It includes __free__ materials from different sources, such as: _Eggheads_, _Tre
 
 My intention was to create a _little friend_ called Ainstein for each and everyone who want's to learn and keep her/his knowladge up-to-date, in a more funny and not really time bounding way. So, you set a goal of how much time you want to spend on learning daily and we start from here.
 
-### Challenge which I'd to solve together with community:
+### Challenges:
 
 Curating the best materials on the web is a hard problem and one way to solve it is to apply different kind of ML/AI algorithms etc. But, this problem can be solved even in a better way. This way is to involve YOU and your own expirience with learning online.
 
