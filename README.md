@@ -3,7 +3,7 @@
 
 ### Well, what is this all about:
 
-Several mounth ago, I've started working on personalized learning assistant called [Ainstein](m.me/ainsteinio?ref=github).
+Several mounth ago, I've started working on personalized learning assistant called [Ainstein](http://ainstein.co/).
 
 Ainstein is a FB chatbot that provides __curated__ online courses and tutorials on the topics like (but not limited to):
  - Web development
