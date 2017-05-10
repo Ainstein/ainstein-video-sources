@@ -42,7 +42,7 @@ To become a repo maintainer, you have to be mature and ideally driving your own 
 
 A good example:
  - Addy Osmani @addyosmani and his [YouTube Show's](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
- - Mattias P Johansson @mpj and his monday morning show [FunFunFunction (https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+ - Mattias P Johansson @mpj and his monday morning show [FunFunFunction] (https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 
 
